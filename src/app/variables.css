@@ -95,13 +95,13 @@ or "warn/action" ineastd of "red/green"
   /*************************
       Base Colors
   *************************/
-  --color-ultramarine-blue: #4070f4;
-  --color-maastricht-blue: #0c152e;
-  --color-slate-gray: #70778b;
-  --color-blue-gray: #8a8ca2;
-  --color-manatee-gray: #9999a0;
+  --color-ultramarine-blue: pink;
+  --color-maastricht-blue: yellow;
+  --color-slate-gray: white;
+  --color-blue-gray: green;
+  --color-manatee-gray: blue;
   --color-dark-blue: #19224d;
-  --color-ink-blue: #254898;
+  --color-ink-blue: red;
   --color-ghost: #bec1cd;
   --color-platinum: #e1e3eb;
   --color-mystic: #edf0f5;
