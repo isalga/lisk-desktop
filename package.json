@@ -5,12 +5,12 @@
   "license": "GPL-3.0",
   "productName": "Lisk",
   "description": "Lisk",
-  "homepage": "https://github.com/LiskHQ/lisk-desktop",
-  "bugs": "https://github.com/LiskHQ/lisk-desktop/issues",
+  "homepage": "https://github.com/isalga/lisk-desktop",
+  "bugs": "https://github.com/isalga/lisk-desktop/issues",
   "main": "main.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LiskHQ/lisk-desktop"
+    "url": "https://github.com/isalga/lisk-desktop"
   },
   "engines": {
     "node": ">=v12.7.0"
